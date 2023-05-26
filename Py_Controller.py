@@ -15,4 +15,3 @@ class Controller:
             total_invoices.append(total)
         return total_invoices
 
-

@@ -13,4 +13,5 @@ class Invoice:
     def calculate(self, market):
         return self.consumption * market / 1000
 
+
 #Consumption en kWh, mercado en €/MWh.

@@ -1,10 +1,17 @@
 
+import pandas as pd
 
 
 class Market:
     def __init__(self, date, value):
         self.date = date
         self.value = value
+
+
+
+
+
+
 
 
 #omie_price = Market("2023-05-18", 10.50)
